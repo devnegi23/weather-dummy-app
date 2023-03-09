@@ -7,7 +7,7 @@ import Home from '@weather/modules/home/Home'
 const App = () => {
   return (
     <View>
-    <Home/>
+    {/* <Home/> */}
     </View>
   )
 }
